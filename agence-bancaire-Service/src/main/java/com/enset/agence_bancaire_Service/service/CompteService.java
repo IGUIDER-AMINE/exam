@@ -1,10 +1,9 @@
-package com.enset.agence_bancaire_service.services;
+package com.enset.agence_bancaire_Service.service;
 
 import com.enset.agence_bancaire_Service.entities.Compte;
 import com.enset.agence_bancaire_Service.repositories.CompteRepo;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
 import java.util.Optional;
 
